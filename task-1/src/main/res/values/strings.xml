@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_1</string>
+    <string name="okBtn">OK</string>
+    <string name="checkBox_new_note">New note</string>
+    <string name="switchTo">Switch</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="any_words">Say some words</string>
+    <string name="hi_there">Hi there!</string>
+</resources>
