@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task-2</string>
+    <string name="text_hint">text</string>
+    <string name="personName">person name</string>
+    <string name="phone_number">phone number</string>
+    <string name="text_password">text password</string>
+    <string name="number">number</string>
+    <string name="email">email</string>
+</resources>
